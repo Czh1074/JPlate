@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisProjectProfileManager">
+    <option name="PROJECT_PROFILE" />
+    <option name="USE_PROJECT_LEVEL_SETTINGS" value="false" />
+    <list size="0" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/common/pom.xml" />
+        <option value="$PROJECT_DIR$/common/common_utils/pom.xml" />
+        <option value="$PROJECT_DIR$/infrastructure/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/serivce/pom.xml" />
+        <option value="$PROJECT_DIR$/service/service_edu/pom.xml" />
+        <option value="$PROJECT_DIR$/service/service_ucenter/pom.xml" />
+        <option value="$PROJECT_DIR$/service/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/service/user/pom.xml" />
+        <option value="$PROJECT_DIR$/service_base/pom.xml" />
+        <option value="$PROJECT_DIR$/service_vod/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
+</project>
